@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MongoDb.CarPark", "MongoDb.CarPark\MongoDb.CarPark.csproj", "{36E0F72A-930B-4403-8E06-6F0CD63D4B62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDb.CarPark.UI", "MongoDb.CarPark.UI\MongoDb.CarPark.UI.csproj", "{7D51AD41-51DA-433C-8ECF-BE58ED1FFCFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36E0F72A-930B-4403-8E06-6F0CD63D4B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E0F72A-930B-4403-8E06-6F0CD63D4B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E0F72A-930B-4403-8E06-6F0CD63D4B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E0F72A-930B-4403-8E06-6F0CD63D4B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D51AD41-51DA-433C-8ECF-BE58ED1FFCFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D51AD41-51DA-433C-8ECF-BE58ED1FFCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D51AD41-51DA-433C-8ECF-BE58ED1FFCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D51AD41-51DA-433C-8ECF-BE58ED1FFCFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22213A82-E5E4-4367-8323-AB357AFFFFA7}
+	EndGlobalSection
+EndGlobal
